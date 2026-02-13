@@ -8,9 +8,6 @@ A Python-based data analysis project using **Jupyter Notebook** to explore the *
 ## 📌 Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset Description](#dataset-description)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [How to Run](#how-to-run)
 - [Tools & Libraries Used](#tools--libraries-used)
 
 
@@ -41,25 +38,6 @@ Key features:
 
 ---
 
-## ⚙️ Prerequisites
-
-Before running this project, ensure you have the following installed:
-
-- Python 3.7+
-- Jupyter Notebook
-- pip (Python package manager)
-
-Required Python libraries:
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- openpyxl (for reading `.xlsx` files)
-
-You can install them via:
-pip install pandas numpy matplotlib seaborn openpyxl
-
----
 
 ## 📊 Tools and Libraries Used
 - Python – Core programming language
